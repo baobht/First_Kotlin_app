@@ -27,7 +27,12 @@ import org.json.JSONException
 class ChampionDetailsFragment : Fragment(R.layout.champ_details) {
     private lateinit var mainActivity: FragmentActivity
     private lateinit var champName: TextView
+    private lateinit var champDet: TextView
+
+    private lateinit var skillTi: TextView
+    private lateinit var skillDe: TextView
     private lateinit var imageSource: ImageView
+    private lateinit var skillSource: ImageView
 
     override fun onAttach(context: Context) {
         super.onAttach(context)
@@ -49,12 +54,28 @@ class ChampionDetailsFragment : Fragment(R.layout.champ_details) {
         val champion = arguments!!.getSerializable("champ") as ChampData
 
         champName = view.findViewById(R.id.tvChampName)
+        skillTi = view.findViewById(R.id.tvChampSkillT)
+        skillDe = view.findViewById(R.id.tvChampSkillD)
         imageSource = view.findViewById(R.id.tvChampImg)
+        skillSource = view.findViewById(R.id.tvSkillImg)
+        champDet = view.findViewById(R.id.tvChampDet)
+
+
+        // set details to layout
         champName.text = champion.name
+        skillTi.text = champion.skillTitle
+        skillDe.text = champion.skillDes
+        champDet.text = champion.skillDes
+        var skillImg = champion.name.replace("\\s+|'".toRegex(), "").toLowerCase()
         var imgName = champion.name.replace("\\s+|'".toRegex(), "")
         Picasso.get()
             .load("https://raw.githubusercontent.com/baobht/First_Kotlin_app/master/app/set5/champions/TFT5_"+imgName+".png")
             .into(imageSource)
+
+        Picasso.get()
+            .load("https://raw.githubusercontent.com/baobht/First_Kotlin_app/master/app/set5/championskills/"+skillImg+"_passive.png")
+            .into(skillSource)
+
         return view
     }
 

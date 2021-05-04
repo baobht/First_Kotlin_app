@@ -91,6 +91,8 @@ class ChampionsFragment : Fragment(R.layout.fragment_champ_list) {
                 else{
                     champi.traits = listOf(champArr["traits"].toString().split("[\\W]".toRegex())?.get(2),champArr["traits"].toString().split("[\\W]".toRegex())?.get(5))
                 }
+                champi.skillTitle = champArr["skillTitle"].toString()
+                champi.skillDes = champArr["skill"].toString()
                 champions.add(champi)
             }
         } catch (e: JSONException) {
