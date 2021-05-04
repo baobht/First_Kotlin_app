@@ -12,7 +12,9 @@
     "traits": [
       "Set5_Redeemed",
       "Set5_Legionnaire"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Aphelios",
@@ -21,7 +23,9 @@
     "traits": [
       "Set5_Nightbringer",
       "Set5_Ranger"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Ashe",
@@ -31,7 +35,9 @@
       "Set5_Verdant",
       "Set5_Draconic",
       "Set5_Ranger"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Brand",
@@ -40,7 +46,9 @@
     "traits": [
       "Set5_Abomination",
       "Set5_Spellweaver"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Darius",
@@ -50,7 +58,9 @@
       "Set5_Nightbringer",
       "Set5_GodKing",
       "Set5_Knight"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Diana",
@@ -60,7 +70,9 @@
       "Set5_Dragonslayer",
       "Set5_Nightbringer",
       "Set5_Assassin"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Draven",
@@ -69,7 +81,9 @@
     "traits": [
       "Set5_Forgotten",
       "Set5_Legionnaire"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Garen",
@@ -79,7 +93,9 @@
       "Set5_Dawnbringer",
       "Set5_GodKing",
       "Set5_Knight"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Gragas",
@@ -88,7 +104,9 @@
     "traits": [
       "Set5_Dawnbringer",
       "Set5_Brawler"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Hecarim",
@@ -97,7 +115,9 @@
     "traits": [
       "Set5_Forgotten",
       "Set5_Cavalier"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Heimerdinger",
@@ -107,7 +127,9 @@
       "Set5_Draconic",
       "Set5_Renewer",
       "Set5_Caretaker"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Ivern",
@@ -117,7 +139,9 @@
       "Set5_Revenant",
       "Set5_Invoker",
       "Set5_Renewer"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Jax",
@@ -126,7 +150,9 @@
     "traits": [
       "Set5_Ironclad",
       "Set5_Skirmisher"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Kalista",
@@ -135,7 +161,9 @@
     "traits": [
       "Set5_Abomination",
       "Set5_Legionnaire"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Karma",
@@ -144,7 +172,9 @@
     "traits": [
       "Set5_Dawnbringer",
       "Set5_Invoker"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Katarina",
@@ -153,7 +183,9 @@
     "traits": [
       "Set5_Forgotten",
       "Set5_Assassin"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Kayle",
@@ -163,7 +195,9 @@
       "Set5_Redeemed",
       "Set5_Verdant",
       "Set5_Legionnaire"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Kennen",
@@ -172,7 +206,9 @@
     "traits": [
       "Set5_Hellion",
       "Set5_Skirmisher"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Kha'Zix",
@@ -181,7 +217,9 @@
     "traits": [
       "Set5_Dawnbringer",
       "Set5_Assassin"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Kindred",
@@ -191,7 +229,9 @@
       "Set5_Eternal",
       "Set5_Ranger",
       "Set5_Mystic"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
 
 
@@ -203,7 +243,9 @@
     "traits": [
       "Set5_Hellion",
       "Set5_Cavalier"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "LeBlanc",
@@ -212,7 +254,9 @@
     "traits": [
       "Set5_Coven",
       "Set5_Assassin"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Lee Sin",
@@ -221,7 +265,9 @@
     "traits": [
       "Set5_Nightbringer",
       "Set5_Skirmisher"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Leona",
@@ -230,7 +276,9 @@
     "traits": [
       "Set5_Redeemed",
       "Set5_Knight"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Lissandra",
@@ -239,7 +287,9 @@
     "traits": [
       "Set5_Coven",
       "Set5_Renewer"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Lulu",
@@ -248,7 +298,9 @@
     "traits": [
       "Set5_Hellion",
       "Set5_Mystic"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Lux",
@@ -257,7 +309,9 @@
     "traits": [
       "Set5_Redeemed",
       "Set5_Mystic"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Mordekaiser",
@@ -266,7 +320,9 @@
     "traits": [
       "Set5_Dragonslayer",
       "Set5_Legionnaire"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Morgana",
@@ -276,7 +332,9 @@
       "Set5_Nightbringer",
       "Set5_Coven",
       "Set5_Mystic"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Nautilus",
@@ -285,7 +343,9 @@
     "traits": [
       "Set5_Ironclad",
       "Set5_Knight"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Nidalee",
@@ -294,7 +354,9 @@
     "traits": [
       "Set5_Dawnbringer",
       "Set5_Skirmisher"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Nocturne",
@@ -303,7 +365,9 @@
     "traits": [
       "Set5_Revenant",
       "Set5_Assassin"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Nunu",
@@ -312,7 +376,9 @@
     "traits": [
       "Set5_Abomination",
       "Set5_Brawler"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Pantheon",
@@ -321,7 +387,9 @@
     "traits": [
       "Set5_Dragonslayer",
       "Set5_Skirmisher"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Poppy",
@@ -330,7 +398,9 @@
     "traits": [
       "Set5_Hellion",
       "Set5_Knight"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Rell",
@@ -340,7 +410,9 @@
       "Set5_Redeemed",
       "Set5_Ironclad",
       "Set5_Cavalier"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Riven",
@@ -349,7 +421,9 @@
     "traits": [
       "Set5_Dawnbringer",
       "Set5_Legionnaire"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Ryze",
@@ -358,7 +432,9 @@
     "traits": [
       "Set5_Forgotten",
       "Set5_Abomination"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Sejuani",
@@ -367,7 +443,9 @@
     "traits": [
       "Set5_Nightbringer",
       "Set5_Cavalier"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Sett",
@@ -376,7 +454,9 @@
     "traits": [
       "Set5_Draconic",
       "Set5_Brawler"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Soraka",
@@ -385,7 +465,9 @@
     "traits": [
       "Set5_Dawnbringer",
       "Set5_Renewer"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Syndra",
@@ -394,7 +476,9 @@
     "traits": [
       "Set5_Redeemed",
       "Set5_Invoker"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Taric",
@@ -403,7 +487,9 @@
     "traits": [
       "Set5_Verdant",
       "Set5_Knight"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Teemo",
@@ -413,7 +499,9 @@
       "Set5_Cruel",
       "Set5_Hellion",
       "Set5_Invoker"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Thresh",
@@ -422,7 +510,9 @@
     "traits": [
       "Set5_Forgotten",
       "Set5_Knight"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Trundle",
@@ -431,7 +521,9 @@
     "traits": [
       "Set5_Dragonslayer",
       "Set5_Skirmisher"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Udyr",
@@ -440,7 +532,9 @@
     "traits": [
       "Set5_Draconic",
       "Set5_Skirmisher"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Varus",
@@ -449,7 +543,9 @@
     "traits": [
       "Set5_Redeemed",
       "Set5_Ranger"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Vayne",
@@ -458,7 +554,9 @@
     "traits": [
       "Set5_Forgotten",
       "Set5_Ranger"
-    ]
+    ],
+	"skillTitle":"Deathbringer Strike",
+	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
   },
   {
     "name": "Vel'Koz",
@@ -467,7 +565,9 @@
     "traits": [
       "Set5_Redeemed",
       "Set5_Spellweaver"
-    ]
+    ],
+	"skillTitle":"Lifeform Disintegration Ray",
+	"skill":"Vel'Koz channels a ray of energy for 3 seconds toward the enemy nearest the center of the battlefield, dealing 1000/1250/4000 total magic damage over the duration. The beam widens as Vel'Koz channels, and he will pivot if there are no enemies in the area."
   },
   {
     "name": "Viego",
@@ -477,7 +577,9 @@
       "Set5_Forgotten",
       "Set5_Skirmisher",
       "Set5_Assassin"
-    ]
+    ],
+	"skillTitle":"Sovereign's Domination",
+	"skill":"Viego corrupts the soul of his target for 5 seconds, stunning them and dealing 200/300/1500 magic damage, increasing 100% each second. Viego will be interrupted if he is stunned, and Viego's allies prefer not to target his victim during soul corruption.If his victim dies, they are resurrected at full Health to fight for him, but they lose 1500%/700%/0% of their maximum Health per second. Resurrected enemies receive the Trait bonuses of Viego's team instead of their own."
   },
   {
     "name": "Viktor",
@@ -486,7 +588,9 @@
     "traits": [
       "Set5_Forgotten",
       "Set5_Spellweaver"
-    ]
+    ],
+	"skillTitle":"Siphon Power",
+	"skill":"Viktor blasts his target, dealing 300/500/750 magic damage to the nearest enemy. He also grants a 150/225/375 Health shield to the 3 allies nearest his target for 5 seconds."
   },
   {
     "name": "Vladimir",
@@ -495,7 +599,9 @@
     "traits": [
       "Set5_Nightbringer",
       "Set5_Renewer"
-    ]
+    ],
+	"skillTitle":"Transfusion",
+	"skill":"Vladimir deals 250/350/450 magic damage to the target and heals for 200/280/360 Health."
   },
   {
     "name": "Volibear",
@@ -504,7 +610,9 @@
     "traits": [
       "Set5_Revenant",
       "Set5_Brawler"
-    ]
+    ],
+	"skillTitle":"Doombringer",
+	"skill":"Volibear leaps toward his target, then slams the ground in a large area around him. This effect knocks up and stuns enemies for 2.50/3.00/10.00 seconds, removing any shields and dealing 150/250/2000 magic damage."
   },
   {
     "name": "Warwick",
@@ -513,7 +621,9 @@
     "traits": [
       "Set5_Forgotten",
       "Set5_Brawler"
-    ]
+    ],
+	"skillTitle":"Infinite Duress",
+	"skill":"Warwick leaps to the enemy with the lowest percent Health, stunning them, dealing 200/300/400 magic damage, and healing himself for 80% of the damage over 2 seconds. If this Ability kills the target, Warwick will instantly cast it again."
   },
   {
     "name": "Yasuo",
@@ -522,7 +632,9 @@
     "traits": [
       "Set5_Nightbringer",
       "Set5_Legionnaire"
-    ]
+    ],
+	"skillTitle":"Burning Blade",
+	"skill":"Yasuo strikes his target, dealing 300/400/600 magic damage. He then empowers his blade, gaining 30/40/60 stacking bonus true damage on-hit for the rest of combat."
   },
   {
     "name": "Ziggs",
@@ -531,7 +643,9 @@
     "traits": [
       "Set5_Hellion",
       "Set5_Spellweaver"
-    ]
+    ],
+	"skillTitle":"Arcane Bomb",
+	"skill":"Ziggs throws an arcane bomb at his target, dealing 250/350/450 magic damage."
   },
   {
     "name": "Zyra",
@@ -540,6 +654,8 @@
     "traits": [
       "Set5_Draconic",
       "Set5_Spellweaver"
-    ]
+    ],
+	"skillTitle":"Grasping Roots",
+	"skill":"Zyra sends a surge of vines toward her farthest enemy, dealing 250/350/600 magic damage and stunning all enemies they hit for 2.00/2.50/3.50 seconds."
   }
 ]

@@ -31,7 +31,7 @@ class ChampionsFragment : Fragment(R.layout.fragment_champ_list) {
     private var requestQueue: RequestQueue? = null
     private lateinit var but:Button
     private lateinit var but1:Button
-
+    var count:Int = 0
     private var champions =  arrayListOf<ChampData>()
 
     override fun onAttach(context: Context) {
@@ -58,7 +58,10 @@ class ChampionsFragment : Fragment(R.layout.fragment_champ_list) {
         rvChampions = view.findViewById(R.id.rvChampions)
         rvChampions.setHasFixedSize(true)
         rvChampions.layoutManager = LinearLayoutManager(this.context)
-        callApi()
+        if (count===0){
+            callApi()
+            count++
+        }
         displayChampions()
 
 //        but.setOnClickListener({
@@ -97,46 +100,6 @@ class ChampionsFragment : Fragment(R.layout.fragment_champ_list) {
         requestQueue?.add(request)
     }
     private fun displayChampions () {
-        println(123)
-        //cach cua Hue
-//        var champions = listOf<ChampData>()
-        // cach cua bao
-
-
-        // send request
-//        requestQueue = Volley.newRequestQueue(this.context)
-//
-//        val url = "https://raw.githubusercontent.com/baobht/First_Kotlin_app/master/app/set5/champions.json"
-////        val request = JsonArrayRequest(Request.Method.GET, url, null, Response.Listener<JSONArray> {}
-//        val request = JsonArrayRequest(Request.Method.GET, url, null, Response.Listener<JSONArray> {
-//                response ->try {
-//            val jsArray = JSONArray(response.toString())
-//
-//            for (i in 1 until jsArray.length()){
-//                val champArr = jsArray.getJSONObject(i)
-//                val champi = ChampData()
-//                champi.name = champArr["name"].toString()
-//                champi.championId = champArr["championId"].toString()
-//                champi.cost = champArr["cost"].toString().toInt()
-//                if(champArr["traits"].toString().split("[\\W]".toRegex()).size > 8){
-//                    champi.traits = listOf(champArr["traits"].toString().split("[\\W]".toRegex())?.get(2),champArr["traits"].toString().split("[\\W]".toRegex())?.get(5),champArr["traits"].toString().split("[\\W]".toRegex())?.get(8))
-//                }
-//                else{
-//                    champi.traits = listOf(champArr["traits"].toString().split("[\\W]".toRegex())?.get(2),champArr["traits"].toString().split("[\\W]".toRegex())?.get(5))
-//                }
-//                champions.add(champi)
-//            }
-//        } catch (e: JSONException) {
-//            e.printStackTrace()
-//        }
-//        }, Response.ErrorListener { error -> error.printStackTrace() })
-//        requestQueue?.add(request)
-
-        // process responses into a list
-//        champions.forEach({e -> println(e.name)})
-//
-//        println(champions)
-
         // call adapter
         val adapter = ChampionListAdapter(this.context!!, champions, mainActivity.supportFragmentManager, progressBar)
         rvChampions.layoutManager= GridLayoutManager(this.context, 3)
