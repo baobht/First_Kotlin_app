@@ -14,7 +14,7 @@
       "Set5_Legionnaire"
     ],
 	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skill":"Aatrox strikes his target, dealing 200% / 210% / 225% of his Attack Damage, and heals himself for 25% / 30% / 40% of his maximum Health."
   },
   {
     "name": "Aphelios",
@@ -24,8 +24,8 @@
       "Set5_Nightbringer",
       "Set5_Ranger"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Dark Vigil",
+	"skill":"Aphelios launches 4 / 4 / 8 attacks simultaneously, one at his target and the rest at the enemies nearest to them, dealing 175% / 200% / 300% of his Attack Damage plus 200 / 300 / 600 bonus physical damage to each."
   },
   {
     "name": "Ashe",
@@ -36,8 +36,8 @@
       "Set5_Draconic",
       "Set5_Ranger"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Enchanted Arrow",
+	"skill":"Ashe fires an arrow at the farthest enemy, dealing 300 / 400 / 800 magic damage to the first enemy hit and stunning them for 1.5s / 1.5s / 2.5s. If the arrow travels at least 5 hexes, the stun duration is doubled. Enemies within 1 hex receive 50% of these effects."
   },
   {
     "name": "Brand",
@@ -47,8 +47,8 @@
       "Set5_Abomination",
       "Set5_Spellweaver"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Sear",
+	"skill":"Brand launches a ball of fire at nearest non-seared enemy, searing them for 550 / 700 / 1000 magic damage over 12 seconds. Seared enemies have 40% / 50% / 60% reduced Magic Resist."
   },
   {
     "name": "Darius",
@@ -59,8 +59,8 @@
       "Set5_GodKing",
       "Set5_Knight"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"God-Wolf's Carnage",
+	"skill":"Darius transforms into a God-Wolf, becoming unstoppable as he lunges towards a nearby enemy. 3 / 4 / 10 God-Wolves join him in his hunt, each targeting their own prey. Enemies bitten by a God-Wolf are dealt 250% / 350% / 5000% of Darius's Attack Power as physical damage and have their Armor reduced by 60% for 6 seconds. After biting his prey, Darius' next 3 / 4 / 10 attacks restore 10% of his maximum Health."
   },
   {
     "name": "Diana",
@@ -71,8 +71,8 @@
       "Set5_Nightbringer",
       "Set5_Assassin"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Moonfall",
+	"skill":"Diana calls forth moonlight, drawing in all nearby enemies, dealing 200 / 300 / 1500 magic damage and stunning them for 1.5s / 2s / 4s."
   },
   {
     "name": "Draven",
@@ -82,8 +82,8 @@
       "Set5_Forgotten",
       "Set5_Legionnaire"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Spinning Axes",
+	"skill":"Draven starts spinning an axe, empowering his next attack to deal 200% / 220% / 500% of his Attack Damage plus 150 / 200 / 500 bonus physical damage. It will return to his location after striking the target and if Draven catches it, it will refresh the buff. Draven can spin up to two axes at a time."
   },
   {
     "name": "Garen",
@@ -94,8 +94,8 @@
       "Set5_GodKing",
       "Set5_Knight"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"God-Lion's Justice",
+	"skill":"Garen calls down a sword that strikes a large area around his target, dealing 20% / 25% / 200% of each target's max Health in magic damage and reducing their Magic Resist by 60% for 6 seconds. Garen gains a shield equal to 50% of his maximum Health for seconds."
   },
   {
     "name": "Gragas",
@@ -105,8 +105,8 @@
       "Set5_Dawnbringer",
       "Set5_Brawler"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Drunken Rage",
+	"skill":"Gragas drinks from his cask, granting him 40% / 50% / 60% damage reduction for 4 seconds, and causing his next Basic Attack to deal 175 / 250 / 400 bonus magic damage."
   },
   {
     "name": "Hecarim",
@@ -116,8 +116,8 @@
       "Set5_Forgotten",
       "Set5_Cavalier"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Spirit of Dread",
+	"skill":"Hecarim creates an aura around himself for 3 seconds. Each enemy within takes 300 / 400 / 800 magic damage, and Hecarim heals himself for 450 / 600 / 1200 over the duration."
   },
   {
     "name": "Heimerdinger",
@@ -128,8 +128,8 @@
       "Set5_Renewer",
       "Set5_Caretaker"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Upgrade!!!",
+	"skill":"Heimerdinger empowers his Baby Dragon, causing its next attack to be overcharged, launching three fireballs across the battlefield, dealing 250 / 400 / 7777 magic damage while burning enemies for 3% of the their maximum Health as true damage over 6 seconds, and reducing healing by 50% for the duration. If Heimerdinger does not have a turret, this spell will create one instead."
   },
   {
     "name": "Ivern",
@@ -140,8 +140,8 @@
       "Set5_Invoker",
       "Set5_Renewer"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Daisy!",
+	"skill":"Ivern summons his Sentinel friend Daisy to fight with him, gifting her 100% of his Ability Power. Daisy immediately casts Shockwave upon arrival. If Daisy is already summoned, Ivern increases her Ability Power by 50% / 75% / 300% and commands her to cast Shockwave again."
   },
   {
     "name": "Jax",
@@ -151,8 +151,8 @@
       "Set5_Ironclad",
       "Set5_Skirmisher"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Empowered Strike",
+	"skill":"Jax slams his target for 200% / 220% / 300% of his Attack Damage and gains 33% stacking Attack Speed for the remainder of combat. Jax leaps to the nearest enemy if no target is in his Attack Range."
   },
   {
     "name": "Kalista",
@@ -162,8 +162,8 @@
       "Set5_Abomination",
       "Set5_Legionnaire"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Pierce",
+	"skill":"Kalista hurls a spear towards the farthest enemy, dealing 200% / 225% / 250% of her Attack Damage plus 400 / 700 / 1100 bonus physical damage to the first enemy it hits. If this kills the target, the spear continues and will deal the overkill damage to the next target it hits."
   },
   {
     "name": "Karma",
@@ -173,8 +173,8 @@
       "Set5_Dawnbringer",
       "Set5_Invoker"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Soulflare",
+	"skill":"Karma fires a burst of energy towards a random enemy's location that detonates upon impact, dealing 200 / 250 / 1000 magic damage to adjacent enemies, and reducing Karma's maximum mana by 20 / 20 / 40 (down to a minimum of 10). Karma empowers every third cast, causing it to launch three bursts of energy toward different targets instead of one."
   },
   {
     "name": "Katarina",
@@ -184,8 +184,8 @@
       "Set5_Forgotten",
       "Set5_Assassin"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Sinister Blade",
+	"skill":"Katarina throws a dagger at the farthest enemy, dealing 110 / 150 / 300 magic damage. When the dagger lands near the target Katarina teleports to it and immediately launches 3 additional daggers at the nearest enemies that each deal 50 / 75 / 150 magic damage."
   },
   {
     "name": "Kayle",
@@ -196,8 +196,8 @@
       "Set5_Verdant",
       "Set5_Legionnaire"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Divine Ascent",
+	"skill":"Kayle ascends every 5s / 4s / 1s, gaining additional bonuses. 1st: Attacks deal 70% / 80% / 1000% of Kayle's Attack Damage as bonus true damage. 2nd: Attacks explode around the target dealing her Attack Damage and bonus true damage to adjacent enemies. 3rd: Every 7th attack grants Kayle damage immunity for 1 second. 4th: Hits cause swords to rain down around the target, dealing 250 / 400 / 10000 magic damage."
   },
   {
     "name": "Kennen",
@@ -207,8 +207,8 @@
       "Set5_Hellion",
       "Set5_Skirmisher"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Flame Rush",
+	"skill":"Kennen engulfs himself in flame, dashing behind his target, then to the farthest enemy. Enemies he passes through are zapped dealing 150 / 200 / 400 magic damage and stunning them for 1.5s / 2s / 3s."
   },
   {
     "name": "Kha'Zix",
@@ -218,8 +218,8 @@
       "Set5_Dawnbringer",
       "Set5_Assassin"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Taste their Fear",
+	"skill":"Kha'Zix slashes the nearest enemy, dealing 250 / 350 / 550 magic damage. If the enemy has no adjacent allies, this damage is increased to 750 / 1050 / 1650."
   },
   {
     "name": "Kindred",
@@ -230,8 +230,8 @@
       "Set5_Ranger",
       "Set5_Mystic"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Lamb's Respite",
+	"skill":"For 2.5s / 3s / 10s Lamb creates a zone around herself that prevents allies within from falling below 300 / 500 / 1000 health. While Lamb's Respite is active, Wolf is invulnerable. Wolf's Ability: Wolf returns to Lamb, healing them both 150 / 275 / 9999 and then launches himself at the lowest health enemy, dealing 300 / 550 / 9999 magic damage."
   },
 
 
@@ -244,8 +244,8 @@
       "Set5_Hellion",
       "Set5_Cavalier"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Violent Tendencies",
+	"skill":"Kled enters combat on Skaarl, granting him a shield for 80% of his maximum health. When the shield is broken he dismounts, briefly becoming untargetable, and granting him 50 / 60 / 70% Attack Speed and causing every 4th attack to deal 200% of his Attack Damage."
   },
   {
     "name": "LeBlanc",
@@ -255,8 +255,8 @@
       "Set5_Coven",
       "Set5_Assassin"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Ethereal Chain",
+	"skill":"LeBlanc launches ethereal chains at the two enemies nearest her, dealing 150 / 225 / 400 magic damage and, after a short delay, stunning them for 1.5s / 2s / 3s."
   },
   {
     "name": "Lee Sin",
@@ -266,8 +266,8 @@
       "Set5_Nightbringer",
       "Set5_Skirmisher"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Cripple",
+	"skill":"Lee Sin slams the ground, dealing 225 / 350 / 700 magic damage to nearby enemies and slowing their attack speed by 50% for 4 seconds."
   },
   {
     "name": "Leona",
@@ -277,8 +277,8 @@
       "Set5_Redeemed",
       "Set5_Knight"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Solar Barrier",
+	"skill":"Leona raises her shield, reducing all incoming damage by 40 / 80 / 400 for 4 seconds."
   },
   {
     "name": "Lissandra",
@@ -288,8 +288,8 @@
       "Set5_Coven",
       "Set5_Renewer"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"1000 Daggers",
+	"skill":"Lissandra hurls a dagger toward the enemy with the highest Attack Damage, dealing 350 / 450 / 550 magic damage to the first target it hits. After hitting its initial target or at its final destination, the dagger explodes dealing 175 / 225 / 275 magic damage to nearby targets. All enemies hit by this spell have their Attack Damage reduced by 40% for 4 seconds."
   },
   {
     "name": "Lulu",
@@ -299,8 +299,8 @@
       "Set5_Hellion",
       "Set5_Mystic"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Whimsy",
+	"skill":"Lulu casts an enchantment on 3 / 3 / 5 units nearest to her. If this enchants an ally, they gain 30% / 60% / 100% bonus Attack Speed for 4 seconds. If this enchants an enemy, they are transformed into a docile feline, stunning them for 2s / 2.5s / 4s and causing them to take 20% increased damage."
   },
   {
     "name": "Lux",
@@ -310,8 +310,8 @@
       "Set5_Redeemed",
       "Set5_Mystic"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Prismatic Illumination",
+	"skill":"Lux launches her wand toward her farthest ally, which returns to her shortly after reaching them. Lux and each ally touched by the wand are shielded 150 / 225 / 400 for 3 seconds. Additionally, Lux empowers her next basic attack to deal an additional 200 / 350 / 800 magic damage."
   },
   {
     "name": "Mordekaiser",
@@ -321,8 +321,8 @@
       "Set5_Dragonslayer",
       "Set5_Legionnaire"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Infernal Rise",
+	"skill":"Mordekaiser shields himself for 50% of his maximum health for 5 seconds, empowering his mace to deal 450 / 600 / 5000 bonus magic damage and gain 1 hex of range for the same duration.Bonus Damage:450 / 600 / 5000"
   },
   {
     "name": "Morgana",
@@ -333,8 +333,8 @@
       "Set5_Coven",
       "Set5_Mystic"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Soul Shackles",
+	"skill":"Morgana fires chains to nearby enemies, dealing 200 / 300 / 550 magic damage. After 3 seconds, all chained enemies are dealt an additional 200 / 300 / 550 magic damage and stunned for 2s / 3s / 4s."
   },
   {
     "name": "Nautilus",
@@ -344,8 +344,8 @@
       "Set5_Ironclad",
       "Set5_Knight"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Anchor Slam",
+	"skill":"Nautilus erupts the ground beneath his target, knocking them up and stunning them for 3s / 4s / 6s, and dealing 100 / 200 / 500 magic damage. Enemies adjacent to the target receive half of this effect."
   },
   {
     "name": "Nidalee",
@@ -355,8 +355,8 @@
       "Set5_Dawnbringer",
       "Set5_Skirmisher"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Aspect of the Cougar",
+	"skill":"Nidalee transforms into a cougar, leaping behind her target. While in cougar form, Nidalee's attack range is reduced to 1 hex, she gains 45% dodge chance, and whenever she dodges her next attack deals 150 / 250 / 450 bonus magic damage."
   },
   {
     "name": "Nocturne",
@@ -366,8 +366,8 @@
       "Set5_Revenant",
       "Set5_Assassin"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Umbra Blades",
+	"skill":"Every third attack, Nocturne slashes all adjacent enemies for 125% of his Attack Damage, and heals himself for 70% / 80% / 90% of the damage dealt. If only one target is hit, Nocturne increases his Attack Speed by 20% / 30% / 60% for 3 seconds."
   },
   {
     "name": "Nunu",
@@ -377,8 +377,8 @@
       "Set5_Abomination",
       "Set5_Brawler"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Consume",
+	"skill":"Willump bites his target, dealing 500 / 750 / 1500 magic damage. If Willump's target has less Health than he does before the bite, it deals an additional 50% damage and becomes true damage."
   },
   {
     "name": "Pantheon",
@@ -388,8 +388,8 @@
       "Set5_Dragonslayer",
       "Set5_Skirmisher"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Aegis Assault",
+	"skill":"Pantheon braces his shield, reducing all incoming damage by 75% / 80% / 90% for 4 seconds, and dealing 340% / 350% / 400% of his Attack Damage in the area in front of him over the duration."
   },
   {
     "name": "Poppy",
@@ -399,8 +399,8 @@
       "Set5_Hellion",
       "Set5_Knight"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Buckler Toss",
+	"skill":"Poppy throws her buckler at the farthest enemy, dealing 100 / 150 / 225 magic damage. The buckler then bounces back, granting Poppy a shield that blocks 200 / 300 / 450 damage."
   },
   {
     "name": "Rell",
@@ -411,8 +411,8 @@
       "Set5_Ironclad",
       "Set5_Cavalier"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Attract and Repel",
+	"skill":"Rell leaps into the air, creating a tether between herself and her farthest ally. When she lands the tether is broken, granting all allies near and between them a 350 / 500 / 3000 shield for 4 seconds and stunning all enemies in the same area for 2s / 2.5s / 8s."
   },
   {
     "name": "Riven",
@@ -422,8 +422,8 @@
       "Set5_Dawnbringer",
       "Set5_Legionnaire"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Blade of the Dawn",
+	"skill":"Riven empowers her blade, stunning nearby enemies for 1.5 seconds while dealing 100 / 200 / 350 magic damage. For the next 8 seconds, she gains 80% / 90% / 100% bonus Attack Damage."
   },
   {
     "name": "Ryze",
@@ -433,8 +433,8 @@
       "Set5_Forgotten",
       "Set5_Abomination"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Rune Prison",
+	"skill":"Ryze imprisons the nearest enemy, dealing 200 / 250 / 800 magic damage and stunning them for 1.5s / 2s / 4s. His next cast is then empowered to spread from his target, applying the same damage and stun to all enemies in a large area around the target."
   },
   {
     "name": "Sejuani",
@@ -444,8 +444,8 @@
       "Set5_Nightbringer",
       "Set5_Cavalier"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Fury of the North",
+	"skill":"Sejuani signals Bristle to charge, dealing 300/450/750 magic damage and stunning the target for 2s / 3s / 4s. She then gains Frost Armor, granting her 60/120/300 Armor and Magic Resist."
   },
   {
     "name": "Sett",
@@ -455,8 +455,8 @@
       "Set5_Draconic",
       "Set5_Brawler"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Haymaker",
+	"skill":"Sett pulls back for a punch, shredding 15 / 20 / 25 armor for 10 seconds and dealing 200% / 220% / 250% of his attack damage as physical damage to all enemies in the area."
   },
   {
     "name": "Soraka",
@@ -466,8 +466,8 @@
       "Set5_Dawnbringer",
       "Set5_Renewer"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Equinox",
+	"skill":"Soraka calms the area around the enemy with the highest current percent mana, dealing 150 / 250 / 500 magic damage to all enemies hit and increasing the cost of their next ability by 35% / 35% / 50%."
   },
   {
     "name": "Syndra",
@@ -477,8 +477,8 @@
       "Set5_Redeemed",
       "Set5_Invoker"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Force of Will",
+	"skill":"Syndra grabs the nearest enemy and flings them towards the farthest enemy, dealing 250 / 350 / 650 magic damage to all nearby enemies upon impact and stunning the thrown target for 2s / 2.5s / 4s."
   },
   {
     "name": "Taric",
@@ -488,8 +488,8 @@
       "Set5_Verdant",
       "Set5_Knight"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Nature's Touch",
+	"skill":"All allies in a large area around Taric are healed for 500 / 750 / 5000 and gain 50 / 75 / 500 Armor for 5 seconds."
   },
   {
     "name": "Teemo",
@@ -500,8 +500,8 @@
       "Set5_Hellion",
       "Set5_Invoker"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Teemo's Cruelty",
+	"skill":"Teemo scatters 4 / 6 / 66 Infernal Souls around a random enemy. When an enemy nears an Infernal Soul (or after 3 seconds), it explodes dealing 100 / 140 / 6666 magic damage to nearby enemies and reducing their Attack Speed by 50%."
   },
   {
     "name": "Thresh",
@@ -511,8 +511,8 @@
       "Set5_Forgotten",
       "Set5_Knight"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Death Sentence",
+	"skill":"Thresh throws his scythe, chaining to the farthest enemy (2 / 3 / 5 pull), dealing 100 / 200 / 300 magic damage, and pulling them toward himself."
   },
   {
     "name": "Trundle",
@@ -522,8 +522,8 @@
       "Set5_Dragonslayer",
       "Set5_Skirmisher"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Subjugate",
+	"skill":"Trundle drains the strength of his current target, stealing 30% / 40% / 50% of their Health, Armor, Magic Resist, and Attack Damage for 6 seconds."
   },
   {
     "name": "Udyr",
@@ -533,8 +533,8 @@
       "Set5_Draconic",
       "Set5_Skirmisher"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Feral Instinct",
+	"skill":"Udyr swaps between Turtle and Tiger stance with each cast, gaining the following benefits: Turtle: Gains a 200 / 300 / 450 shield for 4 seconds. Tiger: Strikes 3 times quickly with his next Basic Attack for 100% / 110% / 120% of his Attack Damage."
   },
   {
     "name": "Varus",
@@ -544,8 +544,8 @@
       "Set5_Redeemed",
       "Set5_Ranger"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Holy Arrows",
+	"skill":"Varus fires a hail of arrows around his target, dealing 140% / 150% / 200% of his Attack Damage as physical damage. Varus and allies within the area are blessed, causing them to deal 25 / 50 / 100 bonus magic damage with their attacks for 6 seconds."
   },
   {
     "name": "Vayne",
@@ -555,8 +555,8 @@
       "Set5_Forgotten",
       "Set5_Ranger"
     ],
-	"skillTitle":"Deathbringer Strike",
-	"skill":"Aatrox strikes his target, dealing 220%/240%/280% of his Attack Damage (total: ), and heals himself for 200/300/450."
+	"skillTitle":"Silver Bolts",
+	"skill":"Vayne's attacks apply Silver Bolts. The third stack consumes all stacks on the target to deal 85 / 110 / 160 bonus true damage."
   },
   {
     "name": "Vel'Koz",
