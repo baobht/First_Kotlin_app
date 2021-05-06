@@ -77,8 +77,6 @@ class ChampionDetailsFragment : Fragment(R.layout.champ_details) {
         imgTrait3 = view.findViewById(R.id.imgTrait3)
         imgTrait4 = view.findViewById(R.id.imgTrait4)
 
-//        println((champion.traits)[0])
-
 
         // set details to layout
         champName.text = champion.name

@@ -2,6 +2,7 @@ package com.example.firstapplication
 
 import android.content.Context
 import android.os.Bundle
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -29,8 +30,6 @@ class ChampionsFragment : Fragment(R.layout.fragment_champ_list) {
     private lateinit var mainActivity: FragmentActivity
     private lateinit var progressBar: ProgressBar
     private var requestQueue: RequestQueue? = null
-    private lateinit var but:Button
-    private lateinit var but1:Button
     var count:Int = 0
     private var champions =  arrayListOf<ChampData>()
 
@@ -47,14 +46,9 @@ class ChampionsFragment : Fragment(R.layout.fragment_champ_list) {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-
-        super.onCreateView(inflater, container, savedInstanceState)
         val view = inflater.inflate(R.layout.fragment_champ_list, container, false)
-//        but = view.findViewById(R.id.btn)
-//        but1 = view.findViewById(R.id.btn1)
 
         progressBar = view.findViewById(R.id.pbChampions)
-
         rvChampions = view.findViewById(R.id.rvChampions)
         rvChampions.setHasFixedSize(true)
         rvChampions.layoutManager = LinearLayoutManager(this.context)
@@ -63,18 +57,12 @@ class ChampionsFragment : Fragment(R.layout.fragment_champ_list) {
             count++
         }
         displayChampions()
-
-//        but.setOnClickListener({
-//            displayChampions()
-//        })
-
         return view
     }
     private fun callApi () {
         requestQueue = Volley.newRequestQueue(this.context)
 
         val url = "https://raw.githubusercontent.com/baobht/First_Kotlin_app/master/app/set5/champions.json"
-//        val request = JsonArrayRequest(Request.Method.GET, url, null, Response.Listener<JSONArray> {}
         val request = JsonArrayRequest(Request.Method.GET, url, null, Response.Listener<JSONArray> {
                 response ->try {
             val jsArray = JSONArray(response.toString())
@@ -94,11 +82,14 @@ class ChampionsFragment : Fragment(R.layout.fragment_champ_list) {
                 champi.skillTitle = champArr["skillTitle"].toString()
                 champi.skillDes = champArr["skill"].toString()
                 champions.add(champi)
+
             }
         } catch (e: JSONException) {
             e.printStackTrace()
         }
         }, Response.ErrorListener { error -> error.printStackTrace() })
+        Log.d("1","Success")
+
         requestQueue?.add(request)
     }
     private fun displayChampions () {

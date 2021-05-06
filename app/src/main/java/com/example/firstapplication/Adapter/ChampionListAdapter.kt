@@ -10,6 +10,7 @@ import com.example.firstapplication.Model.ChampData
 import com.example.firstapplication.R
 import android.os.Bundle
 import android.widget.ProgressBar
+import androidx.cardview.widget.CardView
 import com.example.firstapplication.ChampionDetailsFragment
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.champion.view.*
@@ -22,10 +23,13 @@ class ChampionListAdapter(
 
     ) : RecyclerView.Adapter<ChampionListAdapter.ChampionViewHolder>() {
 
+    private lateinit var cvChampion: CardView
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ChampionViewHolder {
         val view = LayoutInflater.from(context).inflate(R.layout.champion, parent, false)
 
         progressBar.visibility = ProgressBar.GONE
+        cvChampion = view.findViewById(R.id.cvChampion)
 
         return ChampionViewHolder(view)
     }
@@ -40,7 +44,7 @@ class ChampionListAdapter(
         holder.setData(currentChamp)
 
         // on click a champion
-        holder.itemView.setOnClickListener{
+        cvChampion.setOnClickListener{
             val bundle = Bundle()
             bundle.putSerializable("champ", currentChamp)
 

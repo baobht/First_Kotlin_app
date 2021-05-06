@@ -16,5 +16,12 @@
         app:cnb_iconColor="#009688"
         app:cnb_iconSize="22dp"
         app:cnb_backgroundColor="@color/white" />
+    <item
+        android:id="@+id/nav_traits"
+        android:icon="@drawable/ic__26bd0538735bc99555d77a643d7e719"
+        android:title="About"
+        app:cnb_iconColor="#009688"
+        app:cnb_iconSize="50dp"
+        app:cnb_backgroundColor="@color/white" />
 
 </menu>
